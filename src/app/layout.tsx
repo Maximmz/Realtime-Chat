@@ -20,7 +20,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={openSans.className}>
-      <body className="min-h-screen">
+      <body className="bg-zinc-800 text-white">
 
           
           
